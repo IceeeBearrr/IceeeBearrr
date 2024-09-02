@@ -11,13 +11,13 @@ SMSecure is a privacy-focused solution to combat spam messages, including phishi
 
 **🔍 Key Features of SMSecure:**
 
-**Machine Learning-Based Filtering:** Leverages algorithms like BiLSTM, Linear SVM, and Multinomial Naive Bayes to distinguish between spam and legitimate messages, trained on a comprehensive dataset.
+- **Machine Learning-Based Filtering:** Leverages algorithms like BiLSTM, Linear SVM, and Multinomial Naive Bayes to distinguish between spam and legitimate messages, trained on a comprehensive dataset.
 
-**Real-Time Detection:** Quickly identifies and blocks spam messages before they reach the user's inbox, minimizing risk.
+- **Real-Time Detection:** Quickly identifies and blocks spam messages before they reach the user's inbox, minimizing risk.
 
-**Customizable Filtering Rules:** Allows users to set personalized rules for what they consider spam, adapting to individual preferences.
+- **Customizable Filtering Rules:** Allows users to set personalized rules for what they consider spam, adapting to individual preferences.
 
-**Detailed Analytics and Reporting:** Provides insights on message history, blocked spam, and potential threats to enhance awareness.
+- **Detailed Analytics and Reporting:** Provides insights on message history, blocked spam, and potential threats to enhance awareness.
 
 **🌐 Why SMSecure?**
 
