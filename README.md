@@ -10,6 +10,7 @@ I'm currently pursuing a Bachelor of Software Engineering (Honours) at Tunku Abd
 SMSecure is a privacy-focused solution to combat spam messages, including phishing scams and fraudulent schemes, that can compromise personal information. Using machine learning techniques, SMSecure intelligently detects and filters spam, ensuring only legitimate messages reach users.
 
 **🔍 Key Features of SMSecure:**
+
 **Machine Learning-Based Filtering:** Leverages algorithms like BiLSTM, Linear SVM, and Multinomial Naive Bayes to distinguish between spam and legitimate messages, trained on a comprehensive dataset.
 
 **Real-Time Detection:** Quickly identifies and blocks spam messages before they reach the user's inbox, minimizing risk.
@@ -19,6 +20,7 @@ SMSecure is a privacy-focused solution to combat spam messages, including phishi
 **Detailed Analytics and Reporting:** Provides insights on message history, blocked spam, and potential threats to enhance awareness.
 
 **🌐 Why SMSecure?**
+
 SMSecure offers a reliable, user-friendly way to filter out spam without compromising privacy, providing a safer messaging experience and reducing exposure to scams.
 
 ---
