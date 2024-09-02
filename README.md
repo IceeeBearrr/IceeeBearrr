@@ -7,21 +7,19 @@ I'm currently pursuing a Bachelor of Software Engineering (Honours) at Tunku Abd
 ### 🚀 What I'm Working On
 
 **SMSecure: An Advanced SMS Spam Filtering System**
-SMSecure is a secure solution designed to tackle the growing problem of spam messages, which often include phishing scams, fraudulent schemes, and unwanted promotions that can lead to financial losses and compromised personal information. Developed with a focus on privacy and security, SMSecure uses machine learning techniques to intelligently detect and filter out spam messages, ensuring that only legitimate messages reach the user.
+SMSecure is a privacy-focused solution to combat spam messages, including phishing scams and fraudulent schemes, that can compromise personal information. Using machine learning techniques, SMSecure intelligently detects and filters spam, ensuring only legitimate messages reach users.
 
 **🔍 Key Features of SMSecure:**
-**Machine Learning-Based Filtering:** Leverages multiple machine learning algorithms, including BiLSTM, Linear SVM, and Multinomial Naive Bayes, to differentiate between spam and legitimate messages. The system is trained on a comprehensive dataset to assess message content, detect patterns, and analyze sender behavior.
+**Machine Learning-Based Filtering:** Leverages algorithms like BiLSTM, Linear SVM, and Multinomial Naive Bayes to distinguish between spam and legitimate messages, trained on a comprehensive dataset.
 
-**Real-Time Detection:** SMSecure processes incoming messages in real-time, swiftly identifying and blocking spam messages before they reach the user's inbox. This proactive approach minimizes the risk of exposure to potential scams or unwanted content.
+**Real-Time Detection:** Quickly identifies and blocks spam messages before they reach the user's inbox, minimizing risk.
 
-**Customizable Filtering Rules:** Allows users to define personalized filtering rules, giving them control over what types of messages they consider spam. This feature ensures the system adapts to individual preferences and needs.
+**Customizable Filtering Rules:** Allows users to set personalized rules for what they consider spam, adapting to individual preferences.
 
-**Continuous Learning and Improvement:** Incorporates feedback mechanisms where users can mark messages as spam or not spam, allowing the machine learning model to learn from these inputs and continuously improve its accuracy over time.
-
-**Detailed Analytics and Reporting:** Provides users with insights into their message history, including the number of spam messages blocked, types of detected spam, and detailed analytics on potential threats, enhancing awareness and understanding of spam trends.
+**Detailed Analytics and Reporting:** Provides insights on message history, blocked spam, and potential threats to enhance awareness.
 
 **🌐 Why SMSecure?**
-Spam messages are more than just an annoyance, they pose significant privacy and security risks. SMSecure addresses these challenges by offering a reliable, user-friendly solution that filters out spam without compromising user privacy. It aims to provide peace of mind by ensuring a safer messaging experience, reducing the likelihood of falling victim to scams and unwanted communications.
+SMSecure offers a reliable, user-friendly way to filter out spam without compromising privacy, providing a safer messaging experience and reducing exposure to scams.
 
 ---
 
