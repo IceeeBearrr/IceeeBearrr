@@ -7,6 +7,7 @@ I'm currently pursuing a Bachelor of Software Engineering (Honours) at Tunku Abd
 ### 🚀 What I'm Working On
 
 **SMSecure: Advanced SMS Filtering System with Machine Learning**
+
 SMSecure is a privacy-focused solution to combat spam messages, including phishing scams and fraudulent schemes, that can compromise personal information. Using machine learning techniques, SMSecure intelligently detects and filters spam, ensuring only legitimate messages reach users.
 
 **🔍 Key Features of SMSecure:**
