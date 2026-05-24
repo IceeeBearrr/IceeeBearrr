@@ -1,12 +1,13 @@
 ### Hi there 👋, I'm Janice
 
-**A Software Engineering Graduate specializing in Machine Learning, AI, and Full-Stack Development**
+**A Junior Software Engineer specializing in Machine Learning, AI, and Full-Stack Development**
 
+<br>
 
 ## 📁 My Projects
 
 ### University FYP 🎓 🚀
-An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android mobile client and a centralized web administration portal. The system intercepts incoming SMS messages in real-time, executing hybrid checks across custom user rules and user-selected machine learning architectures before delivering notifications.
+An end-to-end spam filtering solution featuring an Android mobile client and a web-based administration platform. It intercepts incoming SMS in real-time, running hybrid checks across customizable user rules and user-selected machine learning models before they reach the inbox.
 
 * **administratorSmsecure / smsecure**
   * **Multi-Model ML Classification:** Developed an Android SMS filtering application that classifies incoming SMS messages before displaying them to users, using machine learning models BiLSTM, SVM, and Multinomial Naive Bayes.
@@ -24,29 +25,30 @@ An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android
   * **Core Gameplay Prototype:** Developed a 2D game prototype using Unity and C#, implementing basic player movement, jumping, animation control, and scene interaction.
   * **Mechanics & State Handling:** Created collision-based enemy and trap mechanics that restart the level when triggered, introducing basic failure-state handling and gameplay challenge.
 
-### Group Assignment 👥 🏛️
+### University Group Assignment 👥 🏛️
 * **University**
   * *Data structures assignment focusing on using ArrayList and LinkedHashMap to handle the management of tutors, courses, and programs within an educational environment.*
 * **SpamClassification**
   * *Natural Language Processing (NLP) techniques including Linear Support Vector Machine (SVM), Multinomial Naive Bayes, and Binary Logistic Regression to classify SMS messages as spam or non-spam.*
 * **Uniqlo**
-  * *A dynamic e-commerce platform developed using ASP.NET. It consists the features of User Authentication, Product Catalog, Shopping Cart, and Order Management.*
-
+  * *A dynamic e-commerce web platform built with ASP.NET, featuring robust implementations for user authentication, an interactive product catalog, an intuitive shopping cart system, and end-to-end order management.*
+<br>
 
 ## 🌱 What I'm Learning & Exploring
 * **Real-World Problem Solving:** Identifying pain points in daily life and building practical, impactful solutions by combining mobile, web application, and machine learning knowledges.
 * **User-Centered Design:** Applying design thinking principles to deliver clean front-end application architectures.
+<br>
 
 ### ⚡ Fun Facts About Me
 * I love Ice Bear ❤️ 🐻❄️
-
+<br>
 
 ## 🤝 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/lee-jia-minn-janice-a253122a6/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
   <a href="mailto:janiceleejm1041@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </p>
-
+<br>
 
 ## 🛠️ Languages and Tools:
 
@@ -86,7 +88,6 @@ An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> &nbsp;
@@ -95,8 +96,11 @@ An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
+<br>
 
 ---
-
+<br>
 
 ### 🌟 Let's Build Something Amazing Together!
+
+<br>
