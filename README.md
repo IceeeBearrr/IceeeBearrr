@@ -1,51 +1,53 @@
-### 👋 Hi there! I'm Janice
+### Hi there 👋, I'm Janice
 
-I'm currently pursuing a Bachelor of Software Engineering (Honours) at Tunku Abdul Rahman University of Management and Technology (TARUMT). I'm a passionate coder with a deep love for building innovative software solutions that make a difference. I thrive on diving into collaborative projects and enjoy every opportunity to sharpen my programming skills, whether it's creating something from scratch, optimizing existing systems, or exploring the latest technologies.
-
----
-
-### 🚀 What I'm Working On
-
-**SMSecure: Advanced SMS Filtering System with Machine Learning**
-
-SMSecure is a privacy-focused solution to combat spam messages, including phishing scams and fraudulent schemes, that can compromise personal information. Using machine learning techniques, SMSecure intelligently detects and filters spam, ensuring only legitimate messages reach users.
-
-**🔍 Key Features of SMSecure:**
-
-- **Machine Learning-Based Filtering:** Leverages algorithms like BiLSTM, Linear SVM, and Multinomial Naive Bayes to distinguish between spam and legitimate messages, trained on a comprehensive dataset.
-
-- **Real-Time Detection:** Quickly identifies and blocks spam messages before they reach the user's inbox, minimizing risk.
-
-- **Customizable Filtering Rules:** Allows users to set personalized rules for what they consider spam, adapting to individual preferences.
-
-- **Detailed Analytics and Reporting:** Provides insights on message history, blocked spam, and potential threats to enhance awareness.
-
-**🌐 Why SMSecure?**
-
-SMSecure offers a reliable, user-friendly way to filter out spam without compromising privacy, providing a safer messaging experience and reducing exposure to scams.
+**A Software Engineering Graduate specializing in Machine Learning, AI, and Full-Stack Development**
 
 ---
 
-### 🌱 I’m Always Learning
+## 📁 My Projects
 
-I believe that technology is ever-evolving, and to stay ahead, one must always keep learning. I'm currently deepening my knowledge in:
+### University FYP 🎓 🚀
+An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android mobile client and a centralized web administration portal. The system intercepts incoming SMS messages in real-time, executing hybrid checks across custom user rules and user-selected machine learning architectures before delivering notifications.
 
-- **Machine Learning and AI:** Exploring advanced algorithms and models to develop smarter and more efficient applications.
-- **Natural Language Processing (NLP):** Enhancing my understanding of NLP to build applications that can interact more naturally with users.
-- **Design Thinking:** Exploring user-centered design principles to create software that truly meets users' needs and expectations.
-- **Full-Stack Application Development:** Developing end-to-end applications using Flutter for the front-end to and Firebase Firestore as the back-end.
+* **administratorSmsecure / smsecure** (Flutter, Python, & Firebase)
+  * **User-Driven ML Selection:** Allows users to choose their preferred classification model among **BiLSTM, Linear SVM, and Multinomial Naive Bayes** to evaluate incoming message content.
+  * **Hybrid Rule Engine:** Integrates global logic with customizable user controls including instant **whitelisting**, automatic **blacklisting** to a quarantine folder, and bespoke **keyword filtering** constraints.
+  * **Quarantine & Error Recovery:** Designed with robust feedback mechanisms enabling users to recover false positives from the secure quarantine folder and report false negatives to the system.
+  * **Admin Web Dashboard & MLOps Pipeline:** Provides administrators with visual data analytics on top spam trends alongside tools for continuous model training using manual patterns and crowd-sourced user reports.
+  
+### Game Development 🎮
+* **Test2DGame** w/ Unity (C#)
+  * *A 2D game environment exploring mechanics like patrol movement systems and custom enemy flip logic.*
+
+### Group Assignment 👥 🏛️
+* **University**
+  * *Data structures assignment focusing on using ArrayList and LinkedHashMap to handle the management of tutors, courses, and programs within an educational environment.*
+* **SpamClassification**
+  * *Natural Language Processing (NLP) techniques including Linear Support Vector Machine (SVM), Multinomial Naive Bayes, and Binary Logistic Regression to classify SMS messages as spam or non-spam.*
+* **Uniqlo**
+  * *A dynamic e-commerce platform developed using ASP.NET.*
+
+---
+
+## 🌱 What I'm Learning & Exploring
+* **Advanced Machine Learning & NLP:** Scaling models to build smarter applications that understand and interact naturally with users.
+* **MLOps & Automation:** Constructing self-hosted AI laboratory environments and workflow pipelines using containerization tools.
+* **User-Centered Design:** Applying design thinking principles to deliver clean front-end application architectures.
 
 ---
 
 ### ⚡ Fun Facts About Me
-
-- I love Ice Bear ❤️
+* I love Ice Bear ❤️ 🐻❄️
 
 ---
 
-### 📫 How to Reach Me
+## 🤝 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/lee-jia-minn-janice-a253122a6/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
+  <a href="mailto:janiceleejm1041@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lee-jia-minn-janice-a253122a6/)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:janiceleejm1041@gmail.com)
+---
 
 ### 💻 My Skills and Interests
 
@@ -53,5 +55,14 @@ I believe that technology is ever-evolving, and to stay ahead, one must always k
 
 ---
 
-### 🌟 Let's Build Something Amazing Together!
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IceeeBearrr&show_icons=true&theme=dark" alt="Janice's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IceeeBearrr&theme=dark" alt="Janice's Streak Stats" />
+</p>
 
+---
+
+### 🌟 Let's Build Something Amazing Together!
