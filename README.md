@@ -2,22 +2,27 @@
 
 **A Software Engineering Graduate specializing in Machine Learning, AI, and Full-Stack Development**
 
----
 
 ## 📁 My Projects
 
 ### University FYP 🎓 🚀
 An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android mobile client and a centralized web administration portal. The system intercepts incoming SMS messages in real-time, executing hybrid checks across custom user rules and user-selected machine learning architectures before delivering notifications.
 
-* **administratorSmsecure / smsecure** (Flutter, Python, & Firebase)
-  * **User-Driven ML Selection:** Allows users to choose their preferred classification model among **BiLSTM, Linear SVM, and Multinomial Naive Bayes** to evaluate incoming message content.
-  * **Hybrid Rule Engine:** Integrates global logic with customizable user controls including instant **whitelisting**, automatic **blacklisting** to a quarantine folder, and bespoke **keyword filtering** constraints.
-  * **Quarantine & Error Recovery:** Designed with robust feedback mechanisms enabling users to recover false positives from the secure quarantine folder and report false negatives to the system.
-  * **Admin Web Dashboard & MLOps Pipeline:** Provides administrators with visual data analytics on top spam trends alongside tools for continuous model training using manual patterns and crowd-sourced user reports.
-  
+* **administratorSmsecure / smsecure**
+  * **Multi-Model ML Classification:** Developed an Android SMS filtering application that classifies incoming SMS messages before displaying them to users, using machine learning models BiLSTM, SVM, and Multinomial Naive Bayes.
+  * **Flexible Message Management:** Implemented blacklist, whitelist, customizable keyword filtering, and quarantine features to support flexible spam filtering and user-controlled message management.
+  * **Feedback Loop & Error Recovery:** Added false positive recovery and false negative reporting features, allowing users to recover legitimate messages and report undetected spam for further model improvement.
+  * **Centralized MLOps Admin Panel:** Developed a web-based admin panel to manage spam patterns, review user-reported messages, support continuous model training, and monitor top filtered SMS trends through a dashboard.
+
+### Agentic Workflow 🤖
+* **AI Weather Decision Agent**
+  * **Intelligent Weather Insights:** Developed an AI agent prototype that retrieves weather data from external APIs and recommends whether the user should carry an umbrella.
+  * **Core Agent Skills:** Practised AI agent design, API integration, tool usage, prompt engineering, and structured output generation.
+
 ### Game Development 🎮
-* **Test2DGame** w/ Unity (C#)
-  * *A 2D game environment exploring mechanics like patrol movement systems and custom enemy flip logic.*
+* **Test2DGame**
+  * **Core Gameplay Prototype:** Developed a 2D game prototype using Unity and C#, implementing basic player movement, jumping, animation control, and scene interaction.
+  * **Mechanics & State Handling:** Created collision-based enemy and trap mechanics that restart the level when triggered, introducing basic failure-state handling and gameplay challenge.
 
 ### Group Assignment 👥 🏛️
 * **University**
@@ -25,21 +30,16 @@ An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android
 * **SpamClassification**
   * *Natural Language Processing (NLP) techniques including Linear Support Vector Machine (SVM), Multinomial Naive Bayes, and Binary Logistic Regression to classify SMS messages as spam or non-spam.*
 * **Uniqlo**
-  * *A dynamic e-commerce platform developed using ASP.NET.*
+  * *A dynamic e-commerce platform developed using ASP.NET. It consists the features of User Authentication, Product Catalog, Shopping Cart, and Order Management.*
 
----
 
 ## 🌱 What I'm Learning & Exploring
-* **Advanced Machine Learning & NLP:** Scaling models to build smarter applications that understand and interact naturally with users.
-* **MLOps & Automation:** Constructing self-hosted AI laboratory environments and workflow pipelines using containerization tools.
+* **Real-World Problem Solving:** Identifying pain points in daily life and building practical, impactful solutions by combining mobile, web application, and machine learning knowledges.
 * **User-Centered Design:** Applying design thinking principles to deliver clean front-end application architectures.
-
----
 
 ### ⚡ Fun Facts About Me
 * I love Ice Bear ❤️ 🐻❄️
 
----
 
 ## 🤝 Connect with me:
 <p align="left">
@@ -47,7 +47,6 @@ An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android
   <a href="mailto:janiceleejm1041@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </p>
 
----
 
 ## 🛠️ Languages and Tools:
 
@@ -58,7 +57,8 @@ An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rag/rag-original.svg" alt="RAG" width="40" height="40" onError="this.style.display='none'"/>
 </p>
 
 ### Game Development
@@ -73,6 +73,8 @@ An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring-mvc" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/struts/struts-original.svg" alt="struts" width="40" height="40" onError="this.style.display='none'"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
@@ -80,11 +82,21 @@ An end-to-end, privacy-focused SMS spam filtering ecosystem featuring an Android
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" alt="tortoisegit" width="40" height="40" onError="this.style.display='none'"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
+
 ---
+
 
 ### 🌟 Let's Build Something Amazing Together!
