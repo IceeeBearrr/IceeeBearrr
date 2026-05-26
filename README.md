@@ -15,10 +15,16 @@ An end-to-end spam filtering solution featuring an Android mobile client and a w
   * **Feedback Loop & Error Recovery:** Added false positive recovery and false negative reporting features, allowing users to recover legitimate messages and report undetected spam for further model improvement.
   * **Centralized MLOps Admin Panel:** Developed a web-based admin panel to manage spam patterns, review user-reported messages, support continuous model training, and monitor top filtered SMS trends through a dashboard.
 
-### Agentic Workflow 🤖
-* **AI Weather Decision Agent**
+### AI Agent 🤖
+* **Weather Decision AI Agent**
   * **Intelligent Weather Insights:** Developed an AI agent prototype that retrieves weather data from external APIs and recommends whether the user should carry an umbrella.
   * **Core Agent Skills:** Practised AI agent design, API integration, tool usage, prompt engineering, and structured output generation.
+
+### RAG 📚
+* **RAG Nutrition Recipe Assistant**
+  * **Document-Based AI Assistant:** Developed a local Retrieval-Augmented Generation (RAG) assistant that answers nutrition and recipe-related questions based on uploaded PDF documents.
+  * **RAG Pipeline Development:** Built an ingestion and retrieval pipeline using Python, LangChain, ChromaDB, Ollama, semantic chunking, vector embeddings, BM25 keyword search, and Cross-Encoder reranking.
+  * **Context-Grounded Response Generation:** Implemented hybrid retrieval and local LLM response generation to produce answers based only on retrieved document context, with source tracking through document metadata and page numbers.
 
 ### Game Development 🎮
 * **Test2DGame**
